@@ -1,0 +1,15 @@
+h1{
+	color: rgba(283,84,91,0.95);
+}
+
+h2,h3{
+
+	color: #ea545b;
+	opacity: 0.9;
+
+}
+
+p{
+	color: rgba(30,30,30);
+	font-family: Sriracha;
+}
