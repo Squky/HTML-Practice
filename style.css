@@ -1,15 +1,46 @@
-h1{
-	color: rgba(283,84,91,0.95);
+h1,h3,h2,p{
+	color: rgba(0, 110, 144);
+	text-align: center;
+}
+.quoteby{
+	font-weight: bold;
 }
 
-h2,h3{
-
-	color: #ea545b;
-	opacity: 0.9;
-
+body{
+	align-content: center;
+	background-image: url("");
+	color: rgb(30,123,120);
+	font-family: "Times New Roman",sriracha;
+	font-size: 20px;
+	position: relative;
 }
 
-p{
-	color: rgba(30,30,30);
-	font-family: Sriracha;
+#imga{
+
+	border-radius: 50%;
+	border:solid;
+	text-align: center;
+	position: relative;
+	display: block;
+	margin: auto;
+}
+.banner{
+	border:solid;
+	background-color: #adcad6;
+	width: 400px;
+	position: relative;
+	top: 20px;
+	height: 500px;
+}
+.banner2{
+	border:solid;
+	background-color: #adcad6;
+	width: 400px;
+	position: absolute;
+	left: 410px;
+	top: 20px;
+}
+.section-white{
+	background-color: white;
+	
 }
